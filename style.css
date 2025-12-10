@@ -1,0 +1,25 @@
+.header{
+    font-family: "Monotype Corsiva", "Segoe Script", "Apple Chancery", cursive;
+}
+.container-fluid{
+    background-color: rgb(175, 234, 234);
+    width: 100%;
+    height: 100vh;
+}
+.image{
+    border-radius: 50%;
+}
+.profile{
+    border-radius: 50%;
+}
+.header-line, .skill{
+    color: rgb(79, 219, 219);
+}
+.pro-section{
+    height: 100vh;
+    width: 100%;
+}
+.footer{
+    background-color: rgb(175, 234, 234);
+    width: 100%;
+}
